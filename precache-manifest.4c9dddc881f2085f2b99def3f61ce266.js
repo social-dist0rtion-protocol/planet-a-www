@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b82758c0380afc6f3ad4",
+    "revision": "43385b3d6f0551f26a95",
     "url": "/static/css/main.929766af.css"
   },
   {
-    "revision": "b82758c0380afc6f3ad4",
-    "url": "/static/js/main.495e6323.js"
+    "revision": "43385b3d6f0551f26a95",
+    "url": "/static/js/main.7cdd107d.js"
   },
   {
     "revision": "b88c38e7acc3c259ae49",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/ethereum.9bb38c82.png"
   },
   {
-    "revision": "63e149e5cb63b279e7257abf9c9f72d5",
+    "revision": "5a2151d4dff957df6dd8c2531d218cdb",
     "url": "/index.html"
   }
 ];
